@@ -1,16 +1,31 @@
-# dot_tapper
+# 🎮 DotTapper - A Simple Flutter Game
 
-A new Flutter project.
+**DotTapper** is a minimalist and fun Flutter-based mobile game where players tap on randomly appearing dots to earn points within a 30-second time limit. The game is lightweight, responsive, and a great starting point for Flutter game developers.
 
-## Getting Started
+![DotTapper Screenshot](assets/preview.png) <!-- Optional: Add a screenshot in your repo -->
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🟢 Simple tap-based gameplay
+- ⏱️ 30-second countdown timer
+- 🔴 Randomly moving dot
+- 🏆 Real-time score counter
+- 🔁 Start, Stop, and Restart functionality
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Built With
+
+- [Flutter](https://flutter.dev/) – Cross-platform UI toolkit
+- Dart Programming Language
+
+---
+
+## 📦 Installation
+
+1. **Clone the repo**:
+   ```bash
+   git clone https://github.com/yourusername/dottapper.git
+   cd dottapper
