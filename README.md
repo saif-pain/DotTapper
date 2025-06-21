@@ -2,7 +2,7 @@
 
 **DotTapper** is a minimalist and fun Flutter-based mobile game where players tap on randomly appearing dots to earn points within a 30-second time limit. The game is lightweight, responsive, and a great starting point for Flutter game developers.
 
-![DotTapper Screenshot](assets/preview.png) <!-- Optional: Add a screenshot in your repo -->
+![DotTapper Screenshot](assets/preview.png)
 
 ---
 
