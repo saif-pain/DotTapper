@@ -6,13 +6,14 @@
 
 ---
 
-## 🚀 Features
+## 🕹️ Features
 
-- 🟢 Simple tap-based gameplay
-- ⏱️ 30-second countdown timer
-- 🔴 Randomly moving dot
-- 🏆 Real-time score counter
-- 🔁 Start, Stop, and Restart functionality
+- 🧠 **Reflex-based gameplay** — Tap the dot as fast as you can!
+- 🎮 **3 Difficulty Levels** — Easy, Medium, and Hard
+- 🎯 **Score Tracker** — Real-time score during gameplay
+- 🎨 **Beautiful UI** — Clean visuals with gradient dot and animations
+- 📱 **Responsive Layout** — Works on all screen sizes
+- 🚫 **Safe Area for Dot** — Dot avoids overlap with control buttons
 
 ---
 
