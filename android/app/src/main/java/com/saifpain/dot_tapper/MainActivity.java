@@ -1,4 +1,4 @@
-package com.example.dot_tapper;
+package com.saifpain.dot_tapper;
 
 import io.flutter.embedding.android.FlutterActivity;
 
